@@ -1,0 +1,2 @@
+plugin-template-001.png=Sample description 1
+plugin-template-002.png=Sample description 2

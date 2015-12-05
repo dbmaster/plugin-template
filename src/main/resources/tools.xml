@@ -1,0 +1,11 @@
+<tools>
+    <tool id="tool-template" title="Tool Template" projectTypes="inventory">
+        <description>Sample tool template</description>
+
+        <parameters>
+            <parameter name="p_sample"  title="Sample Parameter" type="string" required="true" />
+        </parameters>
+
+        <output  script="tool-template.groovy" type="html" />
+    </tool>
+</tools>
