@@ -8,7 +8,6 @@
     <name>Plugin Template</name>
     <description>Some description of the plugin</description>
 
-    <version>0.0.2</version>
     <packaging>bundle</packaging>
 
     <parent>
